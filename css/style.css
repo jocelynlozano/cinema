@@ -1,0 +1,240 @@
+*{
+	font-family: "FontAwesome", sans-serif;
+}
+
+header h5  {
+	color: #D5D5D5;
+	font-size: 14px;
+	top: 20px;
+	position: relative;
+	right: 70px;
+}
+
+input{
+	padding: 10px;
+}
+
+ul{
+	font-size: 18px;
+	color: #D5D5D5;
+	list-style-type: none;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+.more{
+	text-decoration: none;
+    margin-top: 15px;
+
+}
+
+.more a{
+	color: #CB9661;
+}
+
+footer{
+	background-color: #F3F3F3;
+	margin-top: 25px;
+	padding-top: 10px;
+}
+
+footer h5{
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+.logo{
+	width: 300px;
+	height: 50px;
+}
+
+.buscar{
+	font-size: 10px;
+	position: absolute;
+	left: 1000px;
+	top: 5px;
+}
+
+.imgbanner{
+position: absolute;
+width: 100%;
+height: 65%;
+}
+
+.banner h1{
+	color: #B0B0B0;
+	font-size: 35px;
+	margin-top: 30px;
+
+}
+
+.banner h5{
+	color: #D5D5D5;
+	font-size: 18px;
+	margin-top: 10px;
+}
+
+.linea{
+	margin-top: 25px;
+	border: 1px solid #6C6C6C;
+	width: 70%;
+}
+
+.linea2{
+	margin-top: 20px;
+	margin-bottom: 10px;
+	width: 100%;
+	border: 1px solid #DDD;
+}
+
+.allage {
+  	height: 35px;
+  	width: 80px;
+ 	background-color: transparent;
+	color: #01DF01;
+	font-size: 15px;
+ 	text-align: center;
+  	border: 2px solid #39983F;
+  	border-radius: 10px;
+  	padding-top: 9px;
+  	margin-top:15px;
+  	margin-bottom: 5px;
+  	margin-right: 15px;
+ 	float: left;
+}
+
+.title{
+	margin-top: 24px;
+}
+
+.parte1{
+	position: relative;
+	text-align: left;
+	margin-left: 100px;
+}
+
+.parte2{
+ margin-right: -15%;
+}
+
+.bighero{
+	position: relative;
+}
+
+.parrafo {
+	margin-left: 14px;
+	margin-top:120px;
+	margin-bottom: 20px;
+	font-size: 14px;
+	color: #D5D5D5;
+}
+
+.watch {
+	height: 40px;
+	width: 200px;
+	font-size: 16px;
+ 	text-align: center;
+    border-radius: 10px;
+    padding-top: 10px;
+    margin: 5px;
+    margin-top: 15px;
+    color: #FFFFFF;
+}
+
+.trailer{
+	background-color: #DFB636;
+}
+
+.book{
+	background-color: #BB7B29;
+}
+
+.watch:hover, .bookticket:hover {
+	background-color:#D3D3D3;
+}
+
+.peliculas{
+	background-color: #DFB636;
+}
+
+.imagen{
+	position: relative;
+	max-width: 100%;
+}
+
+.superior{
+	width: 190px;
+	height: 240px;
+	margin-right: 10px;
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+
+.inferior{
+	width: 250px;
+	height: 270px;
+	margin-top: 40px;
+}
+
+.ticket{
+	margin-top: 30px;
+	padding: 30px;
+}
+
+.promo {
+	color: #CB9661;
+	font-size: 17px;
+	position: relative;
+}
+
+.ticket h3, h4, h5{
+	color: #D1D1D1;
+	margin-bottom: 10px;
+}
+.ticket h2{
+	font-size: 28px;
+	margin-bottom: 10px;
+}
+
+.new{
+	color:#DEDBDF;
+}
+
+.bookticket {
+	height: 65px;
+	width: 160px;
+	background-color: #BB7B29;
+	color: white;
+	font-size: 15px;
+ 	text-align: center;
+    border-radius: 3%;
+ 	padding: 20px;
+ 	margin: 5px;
+}
+
+.bookticket a{
+	text-decoration: none;
+	color: white;
+	margin: 0 auto;
+}
+
+.peliculas2{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.footer-1{
+	color:#D6DBDF;
+	margin-bottom: 18px;
+}
+
+.footer-2{
+	color:#D6DBDF;
+}
+
+.row{
+	background: linear-gradient 90deg #FCFCFC #F5F5F5;
+}
